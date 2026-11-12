@@ -1,6 +1,6 @@
 # Inventory API
 
-A RESTful web for inventory management, built with C# and ASP.NET Core.
+A RESTful web API for inventory management, built with C# and ASP.NET Core.
 
 ## Features
 
