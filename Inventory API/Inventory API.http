@@ -1,0 +1,6 @@
+@Inventory_API_HostAddress = http://localhost:5268
+
+GET {{Inventory_API_HostAddress}}/api/inventory/products/999/movements
+
+
+###

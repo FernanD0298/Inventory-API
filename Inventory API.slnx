@@ -1,0 +1,5 @@
+<Solution>
+  <Project Path="Inventory API/Inventory API.csproj" />
+  <Project Path="InventoryApi.IntegrationTests/InventoryApi.IntegrationTests.csproj" />
+  <Project Path="InventoryApi.Tests/InventoryApi.Tests.csproj" />
+</Solution>
